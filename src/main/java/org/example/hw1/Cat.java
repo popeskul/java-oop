@@ -1,4 +1,4 @@
-package org.example.lesson1;
+package org.example.hw1;
 
 public class Cat extends Animal {
     private static final int MAX_RUN_DISTANCE = 200;

@@ -1,4 +1,4 @@
-package org.example.lesson1;
+package org.example.hw1;
 
 public abstract class Animal implements Creature {
     protected static final String RESTRICTION_MESSAGE = "%s can't %s that far";
